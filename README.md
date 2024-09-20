@@ -9,7 +9,10 @@
 <img src="https://prcdn.freetls.fastly.net/release_image/17890/159/17890-159-5c59b346c76de22508c3d2a368324b21-2667x1396.png?format=jpeg&auto=webp&quality=85%2C65&width=1950&height=1350&fit=bounds" alt="Matsuken's note" width=20%>
 </a>
 
-[![note](https://prcdn.freetls.fastly.net/release_image/17890/159/17890-159-5c59b346c76de22508c3d2a368324b21-2667x1396.png?format=jpeg&auto=webp&quality=85%2C65&width=1950&height=1350&fit=bounds)](https://note.com/matsuken_rabbit/)
+[![note]()](https://note.com/matsuken_rabbit/)
+
+[![Qiita](https://img.shields.io/badge/--FFFFFF?style=social&logo=github&label=test)](https://qiita.com/xxxxxxxxxx)
+
 
 
 
