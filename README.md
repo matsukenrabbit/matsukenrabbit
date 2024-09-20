@@ -4,6 +4,7 @@
 - 📫 How to reach me : please DM to (https://x.com/Matsuken_IT).
 - 🐰 I love rabbits!!!
 
+<!--
 ## My outputs
 <a href="https://note.com/matsuken_rabbit/">
 <img src="https://prcdn.freetls.fastly.net/release_image/17890/159/17890-159-5c59b346c76de22508c3d2a368324b21-2667x1396.png?format=jpeg&auto=webp&quality=85%2C65&width=1950&height=1350&fit=bounds" alt="Matsuken's note" width=20%>
@@ -20,7 +21,7 @@
 
 
 
-<!--
+
 **matsukenrabbit/matsukenrabbit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
