@@ -11,8 +11,9 @@
 
 [![note]()](https://note.com/matsuken_rabbit/)
 
-[![Qiita](https://img.shields.io/badge/--FFFFFF?style=social&logo=images/note.png&label=test)](https://qiita.com/xxxxxxxxxx)
+[![Matsuken's note](https://img.shields.io/badge/note-Check!-FFFFFF?style=social&logo=notion&label=Matsuken's-note)](https://note.com/matsuken_rabbit/)
 
+![](作ったURL)
 
 
 
