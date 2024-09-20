@@ -1,4 +1,6 @@
 ## Hi there 👋
+- 🔭 My purpose in life is to "transform the movement of people and goods through IT".
+- 🌱 I’m currently learning "Python", "Data Science", ""
 
 <!--
 **matsukenrabbit/matsukenrabbit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
