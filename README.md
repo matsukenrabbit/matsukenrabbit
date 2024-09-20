@@ -11,7 +11,7 @@
 
 [![note]()](https://note.com/matsuken_rabbit/)
 
-[![Qiita](https://img.shields.io/badge/--FFFFFF?style=social&logo=github&label=test)](https://qiita.com/xxxxxxxxxx)
+[![Qiita](https://img.shields.io/badge/--FFFFFF?style=social&logo=images/note.png&label=test)](https://qiita.com/xxxxxxxxxx)
 
 
 
