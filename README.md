@@ -10,7 +10,6 @@
 </a>
 
 In note, I write articles for beginners and people using IT but not familiar with it.
-[![Notion](https://img.shields.io/badge/note-Check!-FFFFFF?style=social&logo=notion&label=Notion)](https://note.com/matsuken_rabbit/)
 
 
 
