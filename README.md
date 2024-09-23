@@ -9,7 +9,7 @@
 <img src="https://prcdn.freetls.fastly.net/release_image/17890/159/17890-159-5c59b346c76de22508c3d2a368324b21-2667x1396.png?format=jpeg&auto=webp&quality=85%2C65&width=1950&height=1350&fit=bounds" alt="Matsuken's note" width=20%>
 </a>
 
-In note, I write articles for beginners and people using IT but not familiar with it.
+In note, I write articles for beginners and people using Information Technology but not familiar with it.
 
 
 
