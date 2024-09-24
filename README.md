@@ -14,8 +14,8 @@
 </p>
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://usagif.com/wp-content/uploads/gify/spongebob-reveals-muscles-usagif.gif">
-</a>GIFファイル何か作って入れる！
+  <img align="right" top="400" height="300" width="350" alt="GIF" src="https://usagif.com/wp-content/uploads/gify/spongebob-reveals-muscles-usagif.gif">
+</a>
 
 - 🔭 My purpose in life is to "transform the movement of people and goods through IT".
 
@@ -63,14 +63,11 @@
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 <br>
-- **Cloud Hosting**:
-    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
-<br>
 - **Softwares and Tools**:
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-   [![Notion](https://img.shields.io/badge/note-Check!-FFFFFF?style=social&logo=notion&label=Notion)](https://note.com/matsuken_rabbit/)
+    ![Notion](https://img.shields.io/badge/notion?style=for-the-badge&logo=notion&logoColor=white)
 <br>
 - **Extras**:
 
@@ -110,13 +107,6 @@ In note, I write articles for beginners and people using Information Technology 
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-
-<br>
-
-- **Cloud Hosting**:
-
-    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
-    
 <br>
 
 - **Softwares and Tools**:
@@ -124,7 +114,7 @@ In note, I write articles for beginners and people using Information Technology 
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-   [![Notion](https://img.shields.io/badge/note-Check!-FFFFFF?style=social&logo=notion&label=Notion)](https://note.com/matsuken_rabbit/)
+    ![Notion](https://img.shields.io/badge/notion?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 <br>
 
