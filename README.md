@@ -67,7 +67,8 @@
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Notion](https://img.shields.io/badge/notion?style=for-the-badge&logo=notion&logoColor=white)
+    ![Notion](https://img.shields.io/badge/Notion-?.svgstyle=social)
+    <img src="https://img.shields.io/badge/Notion-ccc.svg?logo=notion&style=flat">
 <br>
 - **Extras**:
 
@@ -97,28 +98,25 @@ In note, I write articles for beginners and people using Information Technology 
 
 - **Languages**:
     
-    ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+    <img src="https://img.shields.io/badge/-C-white.svg?style=popout-square&logo=c">
+    <img src="https://img.shields.io/badge/-Python-white.svg?style=popout-square&logo=python">
 
 <br>   
     
 - **Front-End Development**:
 
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+
 <br>
 
 - **Softwares and Tools**:
-
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Notion](https://img.shields.io/badge/notion?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
+    <img src="https://img.shields.io/badge/Git-white?style=popout-square&logo=git&logoColor=%23F05033">
+    <img src="https://img.shields.io/badge/Github-white?style=popout-square&logo=github&logoColor=%23121011">
+    <img src="https://img.shields.io/badge/Notion-white?style=popout-square&logo=notion&logoColor=black">
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-white.svg?style=popout-square&logo=visual-studio-code">
 <br>
 
-- **Extras**:
+- **Others**:
 
     ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
     ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
