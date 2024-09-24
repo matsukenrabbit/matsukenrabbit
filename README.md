@@ -40,7 +40,7 @@
 <p align="center">
  <div align="center"  class="icons-social" style="margin-left: 10px;">
    <a style="margin-left: 10px;"  target="_blank" href="https://note.com/matsuken_rabbit/">
-     <img src="https://prcdn.freetls.fastly.net/release_image/17890/159/17890-159-5c59b346c76de22508c3d2a368324b21-2667x1396.png?format=jpeg&auto=webp&quality=85%2C65&width=195&height=135&fit=bounds)"></a>
+     <img src="https://assets.st-note.com/img/1671525652221-KWPPt60A3q.png?width=100&height=100&fit=bounds&quality=85"></a>
 
  </div>
 </p>
