@@ -14,7 +14,7 @@
 </p>
 
 <a target="_blank" align="center">
-  <img align="right" top="400" height="300" width="350" alt="GIF" src="https://usagif.com/wp-content/uploads/gify/spongebob-reveals-muscles-usagif.gif">
+  <img align="right" top="150" height="150" width="300" alt="GIF" src="https://usagif.com/wp-content/uploads/gify/spongebob-reveals-muscles-usagif.gif">
 </a>
 <!--自分の移っている画像のGIFでいいのでは？-->
 
@@ -31,7 +31,6 @@
 <!--
 - 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
 -->
-<br/>
 
 <!-- My Accounte START -->
 <h3 align="center" >
@@ -41,11 +40,10 @@
 <p align="center">
  <div align="center"  class="icons-social" style="margin-left: 10px;">
    <a style="margin-left: 10px;"  target="_blank" href="https://note.com/matsuken_rabbit/">
-     <img src="https://assets.st-note.com/img/1671525652221-KWPPt60A3q.png?width=100&height=100&fit=bounds&quality=85"></a>
- </div>
- <div align="center"  class="icons-social" style="margin-left: 10px;">
-   <a style="margin-left: 10px;"  target="_blank">
-     <img src="?width=100&height=100&fit=bounds&quality=85">
+     <img src="images/note_official(2024925).png?width=100&height=100&fit=bounds&quality=85" width=20%>
+   </a>
+   <a style="margin-left: 10px;"  target="_blank" href="https://qiita.com/MatsuKen_IT">
+     <img src="images/Qiita_official(2024925).png?width=100&height=100&fit=bounds&quality=85" width=20%>
    </a>
  </div>
 </p>
