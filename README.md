@@ -55,7 +55,7 @@
 </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,pwsh,anaconda,Cclatex,linux,linkedin,notion,octave,git,docker,github,md,py,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=windows,pwsh,anaconda,c,latex,linux,linkedin,notion,octave,git,docker,github,md,py,vscode&perline=8" />
   </a>
 </p>
 
