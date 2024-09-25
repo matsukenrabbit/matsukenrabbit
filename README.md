@@ -6,7 +6,7 @@
 </a></h1>
 
 <h3 align="center">
-  私は大学院修士課程２年生です。
+  Now：I am a second year master's student.
 </h3>
 
 <p align="left">
@@ -16,6 +16,7 @@
 <a target="_blank" align="center">
   <img align="right" top="400" height="300" width="350" alt="GIF" src="https://usagif.com/wp-content/uploads/gify/spongebob-reveals-muscles-usagif.gif">
 </a>
+<!--自分の移っている画像のGIFでいいのでは？-->
 
 - 🔭 My purpose in life is to "transform the movement of people and goods through IT".
 
@@ -25,7 +26,7 @@
 
 - 🐰 I love rabbits!!!
 
-- 📝 I regularly write articles on [URL](URL)
+- 📝 I regularly write articles on [note](https://note.com/matsuken_rabbit)
 
 <!--
 - 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
@@ -41,7 +42,11 @@
  <div align="center"  class="icons-social" style="margin-left: 10px;">
    <a style="margin-left: 10px;"  target="_blank" href="https://note.com/matsuken_rabbit/">
      <img src="https://assets.st-note.com/img/1671525652221-KWPPt60A3q.png?width=100&height=100&fit=bounds&quality=85"></a>
-
+ </div>
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+   <a style="margin-left: 10px;"  target="_blank">
+     <img src="?width=100&height=100&fit=bounds&quality=85">
+   </a>
  </div>
 </p>
 <!-- My Account END -->
