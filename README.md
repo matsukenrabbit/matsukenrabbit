@@ -1,17 +1,10 @@
-<!--
-参考：https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/master/templates/100rabhcsmc.md
--->
 <h1 align="center">
   Hi 👋 I'm Matsuken 🐰 
 </a></h1>
 
 <h3 align="center">
-  Now：I am a second year master's student.
+  Now：I'm a second year of graduate school.
 </h3>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=matsukenrabbit&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" />
-</p>
 
 <a target="_blank" align="center">
   <img align="right" top="150" height="200" width="300" alt="GIF" src="https://usagif.com/wp-content/uploads/gify/spongebob-reveals-muscles-usagif.gif">
@@ -34,7 +27,7 @@
 
 <!-- My Accounte START -->
 <h3 align="center" >
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"> My Accounte 🔗 
+  My Accounte 🔗 
 </h3>
 
 <p align="center">
@@ -49,28 +42,17 @@
 </p>
 <!-- My Account END -->
 
-<!--My skills-->
+<!--My using Tools and techniques that I am familiar with START-->
 <h3 align="center" >
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"> Tools and techniques that I am familiar with 😤
+  Tools and techniques that I am familiar with 😤
 </h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=windows,pwsh,anaconda,c,latex,linux,linkedin,notion,octave,git,docker,github,md,py,vscode&perline=8" />
   </a>
 </p>
+<!--My using Tools and techniques that I am familiar with END-->
 
 Credit: [Matsuken](https://github.com/matsukenrabbit)
 
-Last Edited on: 2024/09/24
-
-<!--
-**matsukenrabbit/matsukenrabbit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Last Edited on: 2024/09/27
