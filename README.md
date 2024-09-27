@@ -33,10 +33,11 @@
 <p align="center">
  <div align="center"  class="icons-social" style="margin-left: 10px;">
    <a style="margin-left: 10px;"  target="_blank" href="https://note.com/matsuken_rabbit/">
-     <img src="images/note_official(2024925).png?width=100&height=100&fit=bounds&quality=85" width=20%>
-   </a>
+     <img src="images/note_official(2024925).png?quality=85" width=20%>
    <a style="margin-left: 10px;"  target="_blank" href="https://qiita.com/MatsuKen_IT">
-     <img src="images/Qiita_official(2024925).png?width=100&height=100&fit=bounds&quality=85" width=20%>
+     <img src="images/Qiita_official(2024925).png?quality=85" width=20%>
+   <a style="margin-left: 10px;"  target="_blank" href="https://x.com/Matsuken_IT">
+     <img src="images/X_official(2024927).png?quality=85" width=7%>
    </a>
  </div>
 </p>
