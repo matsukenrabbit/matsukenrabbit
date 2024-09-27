@@ -9,7 +9,6 @@
 <a target="_blank" align="center">
   <img align="right" top="150" height="200" width="300" alt="GIF" src="https://usagif.com/wp-content/uploads/gify/spongebob-reveals-muscles-usagif.gif">
 </a>
-<!--自分の移っている画像のGIFでいいのでは？-->
 
 - 🔭 My purpose in life is to "transform the movement of people and goods through IT".
 
