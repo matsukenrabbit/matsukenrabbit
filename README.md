@@ -48,7 +48,7 @@
 </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,pwsh,anaconda,c,latex,linux,linkedin,notion,octave,git,docker,github,md,py,vscode&perline=8" />
+    <img src="https://skillicons.dev/icons?i=windows,pwsh,anaconda,c,latex,linux,linkedin,notion,octave,git,docker,github,md,py,vscode,ubuntu&perline=8" />
   </a>
 </p>
 <!--My using Tools and techniques that I am familiar with END-->
