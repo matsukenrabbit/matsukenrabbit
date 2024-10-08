@@ -20,9 +20,6 @@
 
 - 📝 I regularly write articles on [note](https://note.com/matsuken_rabbit)
 
-<!--
-- 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
--->
 
 <!-- My Accounte START -->
 <h3 align="center" >
@@ -52,7 +49,5 @@
   </a>
 </p>
 <!--My using Tools and techniques that I am familiar with END-->
-
-Credit: [Matsuken](https://github.com/matsukenrabbit)
 
 Last Edited on: 2024/09/27
