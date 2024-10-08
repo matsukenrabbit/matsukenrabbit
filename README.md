@@ -10,7 +10,7 @@
   <img align="right" top="150" height="200" width="300" alt="GIF" src="https://usagif.com/wp-content/uploads/gify/spongebob-reveals-muscles-usagif.gif">
 </a>
 
-- 🔭 My purpose is to "transform the movement of people and goods by using IT".
+- 🔭 My purpose is "to transform the movement of people and goods by using IT".
 
 - 🌱 I’m currently learning "Python", "Data Science" and "Tourism DX".
 
