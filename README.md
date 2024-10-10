@@ -7,7 +7,7 @@
 </h3>
 
 <a target="_blank" align="center">
-  <img align="right" top="150" height="200" width="300" alt="GIF" src="https://usagif.com/wp-content/uploads/gify/spongebob-reveals-muscles-usagif.gif">
+  <img align="right" top="150" height="180" width="180" alt="GIF" src="https://usagif.com/wp-content/uploads/gify/spongebob-reveals-muscles-usagif.gif">
 </a>
 
 - 🔭 My purpose is "to transform the movement of people and goods by using IT".
