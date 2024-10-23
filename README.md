@@ -22,19 +22,15 @@
 
 
 <!-- My Accounte START -->
+<p align="center">
 <h3 align="center" >
   My Accounte 🔗 
 </h3>
-
-<p align="center">
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-   <a style="margin-left: 10px;"  target="_blank" href="https://note.com/matsuken_rabbit/">
-     <img src="images/note_official(2024925).png?quality=85" width=20%>
-   <a style="margin-left: 10px;"  target="_blank" href="https://qiita.com/MatsuKen_IT">
-     <img src="images/Qiita_official(2024925).png?quality=85" width=20%>
-   <a style="margin-left: 10px;"  target="_blank" href="https://x.com/Matsuken_IT">
-     <img src="images/X_official(2024927).png?quality=85" width=7%>
-   </a>
+  <a style="margin-left: 10px;"  target="_blank" href="https://note.com/matsuken_rabbit/">
+	 <img src="./images/note_icon.png" width="30" height="30"></a>
+  <a style="margin-left: 10px;"  target="_blank" href="https://x.com/Matsuken_IT">
+    <img src="./images/X_official(2024927).png" width="30" height="30"></a>
  </div>
 </p>
 <!-- My Account END -->
