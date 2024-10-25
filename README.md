@@ -6,9 +6,9 @@
   Now：I'm a second year of graduate school.
 </h3>
 
-<a target="_blank" align="center">
-  <img align="right" top="150" height="180" width="180" alt="GIF" src="https://usagif.com/wp-content/uploads/gify/spongebob-reveals-muscles-usagif.gif">
-</a>
+<p align="center">
+  <img src="./images/matsuken.png" alt="まつけん" width="100" height="100">
+</p>
 
 - 🔭 My purpose is "to transform the movement of people and goods by using IT".
 
@@ -28,16 +28,20 @@
 </h3>
  <div align="center"  class="icons-social" style="margin-left: 10px;">
   <a style="margin-left: 10px;"  target="_blank" href="https://note.com/matsuken_rabbit/">
-	 <img src="./images/note_icon.png" width="30" height="30"></a>
+	 <img src="./images/note_icon.png" width="40" height="40"></a>
   <a style="margin-left: 10px;"  target="_blank" href="https://x.com/Matsuken_IT">
-    <img src="./images/X_official(2024927).png" width="30" height="30"></a>
+    <img src="./images/X.jpg" width="40" height="40"></a>
+  <a style="margin-left: 10px;"  target="_blank" href="https://www.notion.so/ja/@matsuken">
+    <img src="./images/Notion-logo.svg.png" width="40" height="40"></a>
+  <a style="margin-left: 10px;"  target="_blank" href="https://tensor.art/u/776126476427727611">
+    <img src="./images/tensorart.png" width="40" height="40"></a>
  </div>
 </p>
 <!-- My Account END -->
 
-<!--My using Tools and techniques that I am familiar with START-->
+<!--My Skills -->
 <h3 align="center" >
-  Tools and techniques that I am familiar with 😤
+  My skills 😤
 </h3>
 <p align="center">
   <a href="https://skillicons.dev">
