@@ -27,14 +27,18 @@
   My Accounte 🔗 
 </h3>
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-  <a style="margin-left: 10px;"  target="_blank" href="https://note.com/matsuken_rabbit/">
-	 <img src="./images/note_icon.png" width="40" height="40"></a>
-  <a style="margin-left: 10px;"  target="_blank" href="https://x.com/Matsuken_IT">
-    <img src="./images/X.jpg" width="40" height="40"></a>
-  <a style="margin-left: 10px;"  target="_blank" href="https://www.notion.so/ja/@matsuken">
-    <img src="./images/Notion-logo.svg.png" width="40" height="40"></a>
-  <a style="margin-left: 10px;"  target="_blank" href="https://tensor.art/u/776126476427727611">
-    <img src="./images/tensorart.png" width="40" height="40"></a>
+  <a style="margin-left: 50px;"  target="_blank" href="https://note.com/matsuken_rabbit/">
+    <img src="./images/note_icon.png" width="50" height="50"></a>　
+  <a style="margin-left: 50px;"  target="_blank" href="https://x.com/Matsuken_IT">
+    <img src="./images/X.jpg" width="50" height="50"></a>　
+  <a style="margin-left: 50px;"  target="_blank" href="https://www.notion.so/ja/@matsuken">
+    <img src="./images/Notion-logo.svg.png" width="50" height="50"></a>　
+  <a style="margin-left: 50px;"  target="_blank" href="https://tensor.art/u/776126476427727611">
+    <img src="./images/tensorart.png" width="50" height="50"></a>　
+  <a style="margin-left: 50px;"  target="_blank" href="https://qiita.com/MatsuKen_IT">
+    <img src="./images/qiita.png" width="50" height="50"></a>　
+  <a style="margin-left: 50px;"  target="_blank" href="https://zenn.dev/matsuken_it">
+    <img src="./images/zenn.png" width="50" height="50"></a>
  </div>
 </p>
 <!-- My Account END -->
