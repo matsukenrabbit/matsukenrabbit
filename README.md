@@ -3,7 +3,7 @@
 </a></h1>
 
 <h3 align="center">
-  Now：I'm a second year of graduate school.
+  Now：IT Strategist (self-proclaimed)
 </h3>
 
 <p align="center">
